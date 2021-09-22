@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TheGioMastro
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C and Java
+- 🎓 I know Python, C and something on web developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @giorgiogiooo on instagram
 
