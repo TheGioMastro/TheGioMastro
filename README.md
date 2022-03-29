@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TheGioMastro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C and Java
-- 🎓 I know Python, C and something on web developing
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cybersecurity and Programming
+- 🌱 I’m currently learning Java and some C++
+- 🎓 I know Python, C, Java and something on web developing(front-end and back-end)
 - 📫 How to reach me: @giorgiogiooo on instagram
 
 <!---
