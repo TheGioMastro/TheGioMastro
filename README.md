@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheGioMastro
 - 👀 I’m interested in Cybersecurity and Programming
-- 🌱 I’m currently learning Java and some C++
-- 🎓 I know Python, C, Java and something on web developing(front-end and back-end)
+- 🌱 I'm currentrly studying for a three-year degree in computer science
+- 🎓 I know Python, C, Java, PHP, mySQL and html
 - 📫 How to reach me: @giorgiogiooo on instagram
 
 <!---
